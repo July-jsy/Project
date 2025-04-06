@@ -1,0 +1,13 @@
+debug/dbmanager.o
+debug/loginwindow.o
+debug/main.o
+debug/playerwindow.o
+debug/registerwindow.o
+debug/register_qml.o
+debug/registerTip_qml.o
+debug/login_qml.o
+debug/qmlcache_loader.o
+debug/qrc_icon.o
+debug/moc_loginwindow.o
+debug/moc_playerwindow.o
+debug/moc_registerwindow.o

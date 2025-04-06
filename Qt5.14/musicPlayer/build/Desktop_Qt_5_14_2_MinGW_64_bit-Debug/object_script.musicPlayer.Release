@@ -1,0 +1,10 @@
+release/dbmanager.o
+release/loginwindow.o
+release/main.o
+release/playerwindow.o
+release/registerwindow.o
+release/qrc_icon.o
+release/qrc_qml.o
+release/moc_loginwindow.o
+release/moc_playerwindow.o
+release/moc_registerwindow.o
