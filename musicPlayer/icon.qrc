@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../icon/bg.jpg</file>
+        <file>../../icon/hqyj.jpg</file>
+        <file>../../icon/kaifdog.png</file>
+        <file>../../icon/kaisuo.png</file>
+        <file>../../icon/login.jpg</file>
+        <file>../../icon/login_qq.jpg</file>
+        <file>../../icon/mian2.gif</file>
+        <file>../../icon/next.png</file>
+        <file>../../icon/pause.png</file>
+        <file>../../icon/play.png</file>
+        <file>../../icon/previous.png</file>
+        <file>../../icon/qusefdogicon.png</file>
+        <file>../../icon/sign.jpg</file>
+        <file>../../icon/signup.jpg</file>
+        <file>../../icon/suo.png</file>
+    </qresource>
+</RCC>
